@@ -13,6 +13,7 @@ the "/home" directory (or "/home/[username]" for aliases accesible to only a
 single user) called ".bash_aliases" with the following:
 
 	alias update='sudo ~/update.sh'
+	alias install='sudo apt-get install'
 	alias autoremove='sudo apt-get autoremove'
 	alias autoclean='sudo apt-get autoclean'
 	alias search='apt-cache search'
