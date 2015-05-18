@@ -1,0 +1,15 @@
+Linux/Unix Tools:
+	http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/
+	http://www.cse.wustl.edu/~jain/cse567-06/ftp/os_monitors/#sec3.2.2
+	https://www.ibm.com/developerworks/community/blogs/58e72888-6340-46ac-b488-d31aa4058e9c/entry/montor_linux_processes_in_real_time_through_htop190?lang=en
+	http://www.cyberciti.biz/tips/top-linux-monitoring-tools.html
+	http://www.howtogeek.com/howto/linux/show-the-list-of-installed-packages-on-ubuntu-or-debian/
+
+	http://en.wikipedia.org/wiki/KDE_System_Guard
+	https://wiki.gnome.org/Apps/SystemMonitor
+	https://github.com/GNOME/gnome-system-monitor
+
+	http://linux.about.com/od/commands/l/blcmdl1_top.htm
+
+Git Stuff:
+	https://help.github.com/articles/generating-ssh-keys/

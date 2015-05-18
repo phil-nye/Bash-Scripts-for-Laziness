@@ -1,0 +1,18 @@
+Linux Distributions (Flavors, -Like, :
+
+1)	Solaris
+2)	Oracle Linux
+3)	Debian
+4)	Ubuntu, LUbuntu, KUbuntu, XUbuntu ...
+5)	Mint
+6)	ArchLinux
+7)	Gentoo
+8)	Fedora
+9)	RedHat
+10)	CentOS
+11)	Linux From Scratch
+12)	sLackWare
+13)	SuSE (OpenSuSE)
+14)	Stux (STUX)
+15)	Kate (KateOS)
+16)	Funtoo
