@@ -21,6 +21,7 @@ single user) called ".bash_aliases" with the following:
 	alias shlvl='echo $SHLVL'
 	alias ppa='sudo ~/ppa.sh'
 	alias ppa-reinstall='sudo ~/ppa-reinstall.sh'
+	alias size='fs lq'
 
 You may also want to change the 'update' alias to correspond to the path you 
 saved the BASH script in.
