@@ -1,3 +1,4 @@
+ear
 Linux/Unix Tools:
 	http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/
 	http://www.cse.wustl.edu/~jain/cse567-06/ftp/os_monitors/#sec3.2.2
@@ -10,6 +11,9 @@ Linux/Unix Tools:
 	https://github.com/GNOME/gnome-system-monitor
 
 	http://linux.about.com/od/commands/l/blcmdl1_top.htm
+
+	http://www.cyberciti.biz/faq/linux-display-cpu-information-number-of-cpus-and-their-speed/
+	https://code.google.com/p/mycodespot/wiki/DirectPMUCodeGCC
 
 Git Stuff:
 	https://help.github.com/articles/generating-ssh-keys/
